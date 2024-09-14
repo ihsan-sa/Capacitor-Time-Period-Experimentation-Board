@@ -1,4 +1,4 @@
-# Capacitor Time Period Experimentation Board
+# RC Circuit Time Period Experimentation Board
 
 This board is a prototype for a capacitor time period experimentation board to supplement the high school Physics curriculum.
 Using a potentiometer, calibrate the device to switch the LED off exactly when the time period of the RC circuit time period is reached.
